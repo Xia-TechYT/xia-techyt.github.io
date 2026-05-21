@@ -1,6 +1,8 @@
 # Xia-Tech Official Website
 
-![Xia-Tech](Image_6761.jpeg)
+<p align="center">
+  <img src="Image_6761.jpeg" alt="Xia-Tech Logo" width="200" height="200" style="border-radius:0;">
+</p>
 
 ## 🌐 Official Website
 The official website for Xia-Tech YouTube channel featuring videos, shorts, and more.
@@ -21,7 +23,7 @@ Xia-Tech is a YouTube channel focused on:
 - **Instagram:** [@xia_tech](https://instagram.com/xia_tech)
 
 ## 📥 Downloads
-Visit the [Downloads](download/) page for resources and files.
+Visit the [Downloads](download/) page for resources and files. (Coming Soon)
 
 ## 🛠️ Tech Stack
 - HTML5, CSS3, JavaScript
@@ -36,16 +38,16 @@ Visit the [Downloads](download/) page for resources and files.
 - Video popup with details
 - Shorts section
 - Custom theme settings
-- Admin panel (Coming Soon)
-- User login (Coming Soon)
-- Complaint system
+- Admin Panel (Sethmith)
+- User Login (Coming Soon)
+- Complaint System
 
 ## 📝 Version
-Current Version: **1.3.2.5**
+Current Version: **1.3.2.6**
 
 ## 👤 Admin
-- **Admin:** Sethmith2010
-- **Access:** Admin Panel (Settings Menu)
+- **Admin Username:** Sethmith
+- **Access:** Settings Menu → Admin Panel
 
 ## 📄 License
 © 2024-2026 Xia-Tech. All rights reserved.
